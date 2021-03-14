@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Furrman
+- 👀 I’m interested in .NET & Web technologies
+- 🌱 I’m currently learning .NET Microservices
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me at https://www.linkedin.com/feed/
